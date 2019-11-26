@@ -17,6 +17,10 @@ public class first {
 	
 	// Laptop work completed
 	
+
 	//PC2
+
+	// Laptop2
+
 
 }
